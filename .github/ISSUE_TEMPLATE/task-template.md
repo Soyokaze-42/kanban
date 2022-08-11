@@ -1,5 +1,5 @@
 ---
-name: Program Task
+name: Personal Task
 about: Template for Cync Kanban Tasks
 title: ''
 labels: ''
