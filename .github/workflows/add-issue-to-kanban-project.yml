@@ -8,8 +8,8 @@ jobs:
   add_issue:
     runs-on: ubuntu-latest
     steps:
-      - name: Assign Issue to Cync
+      - name: Assign Issue to Kanban
         uses: actions/add-to-project@v0.3.0
         with:
-          project-url: 'https://github.com/orgs/FHU/projects/4'
+          project-url: 'https://github.com/users/Soyokaze-42/projects/2'
           github-token: ${{ secrets.ADD_TO_PROJECT_PAT }}
